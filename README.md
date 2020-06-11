@@ -2,7 +2,27 @@
 
 ## Week-1 
 - Introduction to Python(Part-1) 
+	- What is Python? 
+	- Why Python? 
+	- Printing Message 
+	- Variables, Expressions, Comments 
+	- Class and Objects 
+	- Data Types 
+	- Data Type Conversion 
+	- User Inputs 
+	- Python Packges / Libraries, Imports
+	- Randomness 
+	- Math 
 - Introduction to Python(Part-2) 
+	- Conditional Logic 
+	- Lopps 
+	- List 
+	- Strings
+	- Dictionary 
+	- Tuple 
+	- Sets 
+	- File Handling 
+	- Common Mistakes & Errors
 ## Week-2 
 - Basic Data Visualization with Python
  - Sequence Processing using Python 
